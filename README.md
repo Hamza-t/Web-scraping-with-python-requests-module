@@ -1,6 +1,6 @@
 # Web-scraping-with-python-requests-module
 
-##Steps : 
+## Steps : 
 * Imports library
 * Requests & CURL
 * Check Status Code
